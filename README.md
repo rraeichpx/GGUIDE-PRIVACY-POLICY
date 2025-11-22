@@ -113,4 +113,13 @@ For questions or concerns regarding this Privacy Policy, contact us at:
 
 ---
 
+## **10. Account Deletion Requests**
+Users who wish to delete their account and all associated data may send an email request to:  
+📧 **rrlvstudios@gmail.com**  
+Please include the subject line **"Account Deletion Request"** and provide the email address associated with your account.
+
+We will delete all user data from our systems within a reasonable time frame after confirming your request.
+
+---
+
 © 2025 RR&LV Studios. All Rights Reserved.
